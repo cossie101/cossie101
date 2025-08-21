@@ -1,5 +1,5 @@
 ### Hi there   👋
-I'm Cosmas. <br>Focused on building captivating Web3 projects that redefine the decentralized realm. By leveraging the potential of smart contracts, harnessing the capabilities of JavaScript, and crafting intuitive interfaces with React.
+I'm Cosmas. <br> A Web3 builder using smart contracts , JavaScript and React to craft decentralized projects.
 <br>
 <br>🌱 I’m currently learning : **Solidity**
 
